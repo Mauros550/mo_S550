@@ -18,7 +18,7 @@ Sponsor Hub: One-click Media Kit + Partnership Request (email form + auto-genera
 
 Performance First: Progressive loading, image optimization, Lighthouse ≥90.
 
-Demo/GIF Placeholder: docs/demo.gif (add later)
+Demo/GIF Placeholder: docs/demo.gif 
 
 🧠 Tech Stack
 
