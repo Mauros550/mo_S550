@@ -58,6 +58,7 @@ Deployment: Vercel (Preview → Production)
 
 /contact — Direct message form + socials
 📁 Project Structure
+
 /src
   /app
     /(marketing)
