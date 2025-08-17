@@ -1,5 +1,3 @@
-# mo_S550
-Mo’s Mustang — Interactive Build Site
 
 An immersive, sponsor-ready website showcasing my 2021 Mustang GT. Explore a 3D walk-through, hear exhaust clips, view the full mod list, and request partnerships — all in one clean, fast experience.
 
